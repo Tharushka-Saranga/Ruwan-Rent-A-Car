@@ -1,0 +1,6 @@
+{
+  "name": "Ruwan Car Rentals - Fleet Hub & Online Booking",
+  "description": "Hybrid physical showroom & online car rental platform in Sri Lanka with instant walk-in registration, fleet consignment, live availability board, and full rental operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
